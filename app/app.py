@@ -4,7 +4,7 @@ from telegram.bot import Bot
 import time
 
 # Telegram botunuza ait token ve kullandığınız kanalın ID bilgilerini girin
-bot = Bot('5907885508:AAE9zJtpI01UsBE8qUCxdPUkGC8t0Ah-cSk')
+bot = Bot('')
 channel_id = ''
 
 # Duyuru ve etkinlik sayfalarının URL bilgilerini girin
